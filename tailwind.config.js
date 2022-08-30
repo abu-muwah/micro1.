@@ -5,12 +5,9 @@ module.exports = {
     container: { 
       center: true,
       // screens: {
-      //   'xl': '1120px',
+        // 'xl': '1120px',
       // },
-    },
-    fontFamily: {
-      'poppins': ['Poppins', 'sans-serif'],
-    },
+     },
     extend: {},
   },
   plugins: [],
