@@ -8,13 +8,14 @@ module.exports = {
         'xl': '1120px',
       },
     },
-    borderRadius: {
-      '45px': '45px',
-    },
+    
     // fontSize: {
     //   '58px': '58px',
     // },
     extend: {
+      borderRadius: {
+        '45px': '45px',
+      },
       height: {
         '0.5': '0.5px',
         '1px': '1px',
